@@ -42,7 +42,7 @@ Resolver problemas/Otimizar algoritmos sob pressão.
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
   
   * Este projeto é `individual`;
-  * São `X` dias de projeto;
+  * São `2` dias de projeto;
   * Data para entrega final do projeto: `11/07/2022 14:10`.
 
 </details>
